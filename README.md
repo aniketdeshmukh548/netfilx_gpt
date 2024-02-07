@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  it contains webpack and all test scripts are already present.
-
+# Implementation
+    - cra
+    - tailwind setup
+    - header
+    - login/signup form
 # Features
 - login/signup
     - form for login/signup
