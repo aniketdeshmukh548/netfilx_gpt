@@ -6,7 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - cra
     - tailwind setup
     - header
+    - routing of app
     - login/signup form
+    - form Validation (useRef hook)
+    - regex (for form validation)
+    - autentication (firebase)
+    - create signup user account
+    - STORE (created redux store)
+    - implemented signout
+    - updated profile(by firebase)
+    - header updated
+    - fetch movies form TMDB API
 # Features
 - login/signup
     - form for login/signup
