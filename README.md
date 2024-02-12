@@ -31,6 +31,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - update the store with trailer video data
     - embeded YT video (made autoplay nand mute)
     - tailwind classes added to maincontainer
+    - build secondary component
+    - build movie list
+    - build movie card
+    - TMDB ing cdn url
+    - created customHooks for fetching all types of movies
 # Features
 - login/signup
     - form for login/signup
