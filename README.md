@@ -36,6 +36,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - build movie card
     - TMDB ing cdn url
     - created customHooks for fetching all types of movies
+    - create button(link) for gpt search in header
+    - gpt search page
+    - gpt search bar
+    - multilingual feature
+    - toggle of home/gpt_search
+    - integrate gpt api's (get open AI keys)
+    
 # Features
 - login/signup
     - form for login/signup
